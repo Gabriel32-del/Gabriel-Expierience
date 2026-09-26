@@ -7,7 +7,12 @@ Usa la base de datos Supabase.
 
 # Funciones
 Puedes conectar con Google Workspace
-Organiza, crea y edita proyectos publicos/privados.
+
+Organiza, crea y edita proyectos 
+publicos/privados.
+
 Haz colaboraciones en proyectos grandes, con comentarios
+
 Conecta el `ge-cli` en Linux, MacOS y Windows
+
 Controla todo de forma `remota`
